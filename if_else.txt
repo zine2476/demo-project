@@ -11,6 +11,12 @@ public class Main {
       System.out.println("Good Holiday.");
     }if else (time < 4) {
       System.out.println("Good boys.");
+    }if else (time < 3) {
+      System.out.println("Good iPhone.");
+    }if else (time < 2) {
+      System.out.println("Good iPad.");
+    }if else (time < 1) {
+      System.out.println("Good Samsung.");
     } else {
       System.out.println("Good evening.");
     }  
