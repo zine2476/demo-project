@@ -5,6 +5,8 @@ public class Main {
       System.out.println("Good day.");
     }if else (time < 15) {
       System.out.println("Good Luck.");
+    }if else (time < 10) {
+      System.out.println("Good Bye.");
     } else {
       System.out.println("Good evening.");
     }  
