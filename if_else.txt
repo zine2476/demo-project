@@ -23,6 +23,12 @@ public class Main {
       System.out.println("Good Zine.");
     }if else (time < -2) {
       System.out.println("Good Soba.");
+    }if else (time < -3) {
+      System.out.println("Good 1.");
+    }if else (time < -4) {
+      System.out.println("Good 2.");
+    }if else (time < -5) {
+      System.out.println("Good 3.");
     } else {
       System.out.println("Good evening.");
     }  
