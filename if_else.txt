@@ -19,6 +19,8 @@ public class Main {
       System.out.println("Good Samsung.");
     }if else (time < -1) {
       System.out.println("Good JO.");
+    }if else (time < -2) {
+      System.out.println("Good Zine.");
     } else {
       System.out.println("Good evening.");
     }  
